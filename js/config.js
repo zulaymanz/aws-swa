@@ -1,5 +1,3 @@
-require('dotenv').config()
-
 window._config = {
     cognito: {
         userPoolId: $USERPOOLID, // e.g. us-east-2_uXboG5pAb
